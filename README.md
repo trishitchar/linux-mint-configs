@@ -98,6 +98,8 @@ git remote -v
 ```bash
 chmod +x ~/set-work-git.sh
 ~/set-work-git.sh
+-
+/c/Users/trish/scripts/git-account-fix.sh
 ```
 - 
 ```bash
